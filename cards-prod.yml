@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to Cards Service related PROD APIs"
+  message: "Welcome to Cards Service related Oroduction APIs"
   contactDetails:
     name: "Madhav Deshmukh"
     email: "madhav@deshmukh.com"
